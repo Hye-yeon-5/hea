@@ -1,0 +1,30 @@
+
+### Dataset Statistics
+
+#### General Information
+- **Total Instances**: 1184
+- **Total Features**: 14
+
+#### Phase Statistics
+- **Unique Phases**: 8
+  - **BCC**: 386 instances (32.60%)
+  - **FCC**: 352 instances (29.73%)
+  - **BCC+Sec**: 123 instances (10.39%)
+  - **FCC+Sec**: 99 instances (8.36%)
+  - **FCC+BCC**: 71 instances (6.00%)
+  - **FCC+BCC+Sec**: 58 instances (4.90%)
+  - **HCP**: 54 instances (4.56%)
+  - **Sec**: 41 instances (3.46%)
+
+- **Phase with Maximum Instances**: BCC (386 instances)
+
+#### Composition Statistics
+- **Compositions Containing N Elements**:
+  - **2 Elements**: 425 compositions
+  - **3 Elements**: 70 compositions
+  - **4 Elements**: 86 compositions
+  - **5 Elements**: 315 compositions
+  - **6 Elements**: 221 compositions
+  - **7 Elements**: 59 compositions
+  - **8 Elements**: 4 compositions
+  - **9 Elements**: 4 compositions
